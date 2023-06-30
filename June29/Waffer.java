@@ -6,6 +6,7 @@ public class Waffer {
     Waffer(){
         System.out.println("Waffer const is running..");
     }
+    
     public static void main(String[] args) {
         Waffer waffer = new Waffer();
         System.out.println(waffer.name);
