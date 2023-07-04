@@ -2,7 +2,7 @@ public class Waffer {
     String name="Cream Waffer";
     double quantity = 1;
     String shape;
-    double price;
+    int price;
     Waffer(){
         System.out.println("Waffer const is running..");
     }
